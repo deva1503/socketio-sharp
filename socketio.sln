@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "socketio", "socketio\socketio.csproj", "{87F97060-D70D-41EF-88FE-F5DE9B196BB7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "websocket-sharp", "websocket-sharp\websocket-sharp\websocket-sharp.csproj", "{B357BAC7-529E-4D81-A0D2-71041B19C8DE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+		Debug_Ubuntu|Any CPU = Debug_Ubuntu|Any CPU
+		Release_Ubuntu|Any CPU = Release_Ubuntu|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{87F97060-D70D-41EF-88FE-F5DE9B196BB7}.Debug_Ubuntu|Any CPU.ActiveCfg = Debug|x86
+		{87F97060-D70D-41EF-88FE-F5DE9B196BB7}.Debug_Ubuntu|Any CPU.Build.0 = Debug|x86
+		{87F97060-D70D-41EF-88FE-F5DE9B196BB7}.Debug|x86.ActiveCfg = Debug|x86
+		{87F97060-D70D-41EF-88FE-F5DE9B196BB7}.Debug|x86.Build.0 = Debug|x86
+		{87F97060-D70D-41EF-88FE-F5DE9B196BB7}.Release_Ubuntu|Any CPU.ActiveCfg = Debug|x86
+		{87F97060-D70D-41EF-88FE-F5DE9B196BB7}.Release_Ubuntu|Any CPU.Build.0 = Debug|x86
+		{87F97060-D70D-41EF-88FE-F5DE9B196BB7}.Release|x86.ActiveCfg = Release|x86
+		{87F97060-D70D-41EF-88FE-F5DE9B196BB7}.Release|x86.Build.0 = Release|x86
+		{B357BAC7-529E-4D81-A0D2-71041B19C8DE}.Debug_Ubuntu|Any CPU.ActiveCfg = Debug_Ubuntu|Any CPU
+		{B357BAC7-529E-4D81-A0D2-71041B19C8DE}.Debug_Ubuntu|Any CPU.Build.0 = Debug_Ubuntu|Any CPU
+		{B357BAC7-529E-4D81-A0D2-71041B19C8DE}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{B357BAC7-529E-4D81-A0D2-71041B19C8DE}.Debug|x86.Build.0 = Debug|Any CPU
+		{B357BAC7-529E-4D81-A0D2-71041B19C8DE}.Release_Ubuntu|Any CPU.ActiveCfg = Release_Ubuntu|Any CPU
+		{B357BAC7-529E-4D81-A0D2-71041B19C8DE}.Release_Ubuntu|Any CPU.Build.0 = Release_Ubuntu|Any CPU
+		{B357BAC7-529E-4D81-A0D2-71041B19C8DE}.Release|x86.ActiveCfg = Release|Any CPU
+		{B357BAC7-529E-4D81-A0D2-71041B19C8DE}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
