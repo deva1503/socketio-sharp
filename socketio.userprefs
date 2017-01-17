@@ -1,6 +1,11 @@
 ﻿<Properties StartupItem="socketio/socketio.csproj">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
-  <MonoDevelop.Ide.Workbench />
+  <MonoDevelop.Ide.Workbench ActiveDocument="socketio/socketIO.cs">
+    <Files>
+      <File FileName="socketio/socketIO.cs" Line="62" Column="4" />
+      <File FileName="socketio/Program.cs" Line="35" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
